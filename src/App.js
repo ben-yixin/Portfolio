@@ -4,11 +4,11 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-
+import "tailwindcss/tailwind.css"
+//import { Link } from 'react-router';
 function App() {
   return (
   <main>
-    <p>Test</p>
     <Navbar/>
     <About/>
     <Projects/>
