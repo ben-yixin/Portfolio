@@ -11,7 +11,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Text here
+            Here are some of the apps I have built for fun and to further my understanding on web development.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
