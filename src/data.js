@@ -3,7 +3,7 @@ export const projects = [
       title: "My Portfolio",
       subtitle: "React and TailwindCSS",
       description:
-        "You're here!",
+        "I used React and TailwindCSS to build this site and used formspree.io to submit forms",
       image: "portfoliogif2.gif",
       link: "https://ben-yixin.github.io/Portfolio/",
     },
@@ -11,7 +11,7 @@ export const projects = [
       title: "Final Fantasy 14 Quest Tracker",
       subtitle: "Javascript and Firebase",
       description:
-        "Check progress in the online game FFXIV",
+        "This was built using vanilla Javascript, HTML5, and CSS. A simple app to check progress in FFXIV.",
       image: "FFgif.gif",
       link: "https://ffxiv-msq-progression.web.app/",
     },
