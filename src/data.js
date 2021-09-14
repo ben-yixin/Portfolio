@@ -1,11 +1,11 @@
 export const projects = [
     {
-      title: "My Blog",
-      subtitle: "MERN Stack",
+      title: "My Portfolio",
+      subtitle: "React and TailwindCSS",
       description:
-        "A blog for me to post my learnings and progress",
+        "You're here!",
       image: "FFXIVgif.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://ben-yixin.github.io/Portfolio/",
     },
     {
       title: "Final Fantasy 14 Quest Tracker",
@@ -15,20 +15,24 @@ export const projects = [
       image: "FFXIVgif.gif",
       link: "https://ffxiv-msq-progression.web.app/",
     },
-    {
-      title: "",
-      subtitle: "",
+    /*{
+      title: "Blog",
+      subtitle: "MERN Stack",
       description:
-        "",
+        "A blog for me to post my learnings and progress",
       image: "test.jpg",
-      link: "https://jsbootcamp.com",
+      link: "",
     },
     {
-      title: "Epic Todo App",
+      title: "",
       subtitle: "React Hooks",
       description:
         "",
       image: "test.jpg",
       link: "https://pythonbootcamp.com",
-    },
+    },*/
+  ];
+
+  export const skills = [
+    "JavaScript","Java", "React", "Git", "HTML", "CSS", "SQL"
   ];
