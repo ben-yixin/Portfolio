@@ -4,15 +4,15 @@ export const projects = [
       subtitle: "React and TailwindCSS",
       description:
         "You're here!",
-      image: "FFXIVgif.gif",
+      image: "portfoliogif2.gif",
       link: "https://ben-yixin.github.io/Portfolio/",
     },
     {
       title: "Final Fantasy 14 Quest Tracker",
       subtitle: "Javascript and Firebase",
       description:
-        "A simple tool to check progress in the online game Final Fantasy 14",
-      image: "FFXIVgif.gif",
+        "Check progress in the online game FFXIV",
+      image: "FFgif.gif",
       link: "https://ffxiv-msq-progression.web.app/",
     },
     /*{
